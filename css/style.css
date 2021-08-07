@@ -5,7 +5,12 @@
 }
 
 .container {
+  margin: 25%;
   text-align: center;
+}
+
+.container h2 {
+  margin: 10px;
 }
 
 button {

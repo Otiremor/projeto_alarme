@@ -35,7 +35,7 @@ comecar.addEventListener("click", function () {
       } else {
         alert("Acabou!");
 
-        document.getElementById("sound").onplay();
+        document.getElementById("sound").play();
 
         clearInterval(interval);
       }
