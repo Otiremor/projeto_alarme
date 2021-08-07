@@ -3,3 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.container {
+  text-align: center;
+}
+
+button {
+  background: #006699;
+  color: #ffffff;
+  font-size: 32px;
+  padding: 8px 20px;
+  cursor: pointer;
+  border: 0;
+}
